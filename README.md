@@ -13,6 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Five Myths of Observability](https://yusuf-tayman.medium.com/the-five-myths-of-observability-64be03ef5d28?source=rss-e2c72506ef0b------2)
+- [Cloud-Native Test Orchestration](https://yusuf-tayman.medium.com/cloud-native-test-orchestration-bbf7c1ed86dc?source=rss-e2c72506ef0b------2)
+- [Hidden gems of Testkube: k6 and Kubernetes](https://yusuf-tayman.medium.com/hidden-gems-of-testkube-k6-and-kubernetes-f9b17244f976?source=rss-e2c72506ef0b------2)
+- [Turn any process into a step-by-step guide: Scribe](https://yusuf-tayman.medium.com/turn-any-process-into-a-step-by-step-guide-scribe-6aa82c5d2cd1?source=rss-e2c72506ef0b------2)
+- [Serverless Interactive Slack Bot: Part One](https://yusuf-tayman.medium.com/serverless-interactive-slack-bot-part-one-fe2cf04445e3?source=rss-e2c72506ef0b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
