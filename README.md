@@ -20,11 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Make Things Easier, Which Make Things Harder](https://yusuf-tayman.medium.com/cloud-make-things-easier-which-make-things-harder-8b72ef11f8a4?source=rss-e2c72506ef0b------2)
+- [New Achievement Unlocked: Mastering Redis Performance with xk6-redis](https://yusuf-tayman.medium.com/new-achievement-unlocked-mastering-redis-performance-with-xk6-redis-6e1e391200b4?source=rss-e2c72506ef0b------2)
+- [Chaos as an Art: Fault Injection in Grafana k6](https://yusuf-tayman.medium.com/chaos-as-an-art-fault-injection-in-grafana-k6-8f11a1908fe1?source=rss-e2c72506ef0b------2)
 - [The Five Myths of Observability](https://yusuf-tayman.medium.com/the-five-myths-of-observability-64be03ef5d28?source=rss-e2c72506ef0b------2)
 - [Cloud-Native Test Orchestration](https://yusuf-tayman.medium.com/cloud-native-test-orchestration-bbf7c1ed86dc?source=rss-e2c72506ef0b------2)
-- [Hidden gems of Testkube: k6 and Kubernetes](https://yusuf-tayman.medium.com/hidden-gems-of-testkube-k6-and-kubernetes-f9b17244f976?source=rss-e2c72506ef0b------2)
-- [Turn any process into a step-by-step guide: Scribe](https://yusuf-tayman.medium.com/turn-any-process-into-a-step-by-step-guide-scribe-6aa82c5d2cd1?source=rss-e2c72506ef0b------2)
-- [Serverless Interactive Slack Bot: Part One](https://yusuf-tayman.medium.com/serverless-interactive-slack-bot-part-one-fe2cf04445e3?source=rss-e2c72506ef0b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
