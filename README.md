@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Tayman</h1>
-<h5 align="center">As a Senior Software QA Engineer with 5 years of experience, I have a wealth of knowledge and skills. My expertise in programming languages such as Python, Java, and JavaScript, as well as tools like Selenium and Cypress, make me a valuable asset to any team. In addition, Yusuf's experience with observability tools like Grafana and New Relic makes me especially well-suited for ensuring the performance and reliability of software systems.</h3>
+<h5 align="center">As a Senior Software QA Engineer with 7 years of experience, I have a wealth of knowledge and skills. My expertise in programming languages such as Python, Java, and JavaScript, as well as tools like Selenium and Cypress, make me a valuable asset to any team. In addition, Yusuf's experience with observability tools like Grafana and New Relic makes me especially well-suited for ensuring the performance and reliability of software systems.</h3>
 
 - 🔭 I’m currently working on **OpenPayd**
 
